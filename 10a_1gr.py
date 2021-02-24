@@ -11,7 +11,7 @@ print(5+6)
 5 Gorniks Arturs
 
 6 Guþonoka Jevgeòija
-
+print(23-3)
 7 Isaèenko Aleksandrs
 
 8 Komaðilo Dmitrijs
